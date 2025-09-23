@@ -3,6 +3,7 @@ This repository contains my networking projects, assignments, and lab exercises 
 
 📂 Repository Structure
 Networking-Projects-and-Labs/
+
 │
 ├── Labs/               # Step-by-step networking lab exercises
 ├── Projects/           # Full networking projects with documentation
